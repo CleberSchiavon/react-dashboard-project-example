@@ -32,7 +32,7 @@ export default function LoginPage() {
                   fontWeight='500'
                   className='text-black dark:text-white'
                 >
-                  Entrar na sua conta
+                  Logar na sua conta
                 </Typography>
                 <form
                   className='space-y-4 md:space-y-6'
